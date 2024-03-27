@@ -4,7 +4,8 @@
 - Python
 - C++
 - C
-- Java    
+- Java
+- JavaScript    
 
 #### 프로젝트    
 - 없음.. D:     
