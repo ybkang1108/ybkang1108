@@ -7,7 +7,5 @@
 - Java
 - JavaScript    
 
-#### 프로젝트    
-- 없음.. D:     
 ---
 ![YUBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username={}&show_icons=true&?count_private=true)
