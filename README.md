@@ -8,4 +8,4 @@
 - JavaScript    
 
 ---
-![YUBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username={}&show_icons=true&?count_private=true)
+![YUBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username={id}&show_icons=true&?count_private=true)
